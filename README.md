@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-My personal repository :bowtie:
-
 # About me.js 
 
 <img width="810" alt="Bildschirmfoto 2021-12-29 um 19 17 43" src="https://user-images.githubusercontent.com/91253457/147691894-e5338be4-a0f4-4904-86ad-e2649723a9cd.png">
