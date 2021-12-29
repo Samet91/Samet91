@@ -2,7 +2,7 @@
 
 # About me.js 
 
-<img width="810" alt="Bildschirmfoto 2021-12-29 um 19 17 43" src="https://user-images.githubusercontent.com/91253457/147691894-e5338be4-a0f4-4904-86ad-e2649723a9cd.png">
+<img width="555" alt="Bildschirmfoto 2021-12-29 um 22 58 39" src="https://user-images.githubusercontent.com/91253457/147706604-01d303e6-d944-4df2-b565-8443f4c3f264.png">
 
 <!--
 **Samet91/Samet91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
